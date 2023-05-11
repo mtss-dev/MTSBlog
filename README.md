@@ -6,13 +6,33 @@ Bem-vindo ao MTSBlog! Este é um projeto de blog fictício desenvolvido como par
 
 - Seção Home: Apresenta uma visão geral do blog.
 
+<p align="center">
+  <img src="https://github.com/mtss-dev/MTSBlog/assets/91330677/f942b02e-5b11-4e1f-8ebe-9e111707142a" alt="home" width="650" />
+</p>
+
 - Seção Jogos: Nesta seção, você encontrará notícias, análises e atualizações sobre o mundo dos jogos. A área lateral oferece informações adicionais sobre os mais jogados nos últimos anos e alguns lançamentos.
+
+<p align="center">
+  <img src="https://github.com/mtss-dev/MTSBlog/assets/91330677/4ca85200-3f84-477a-8592-8b08dca88cb0" alt="home" width="650" />
+</p>
 
 - Seção Celulares: Esta seção apresenta notícias sobre smartphones. A área lateral contém informações sobre os smartphones mais vendidos no mundo em 2022 e os smarthphones em alta no momento.
 
+<p align="center">
+  <img src="https://github.com/mtss-dev/MTSBlog/assets/91330677/50757cf0-4035-40e4-baf0-d08c206ea059" alt="celulares" width="650" />
+</p>
+
 - Seção Informática: Notícias sobre as tendências em hardware, software e outros temas relacionados à informática. A área lateral oferece recomendações de artigos relacionados, dicas e truques e um glosário de termos técnicos.
 
+<p align="center">
+  <img src="https://github.com/mtss-dev/MTSBlog/assets/91330677/8e470142-d533-4fe8-8fb1-371452fddb7a" alt="informatica" width="650" />
+</p>
+
 - Seção Eletrônicos: Esta seção abrange uma variedade de dispositivos eletrônicos, desde TVs até gadgets inteligentes. A área lateral contém destaques de produtos eletrônicos e dicas úteis, avaliações e análises de produtos, e recomendações de acessórios para eletrônicos.
+
+<p align="center">
+  <img src="https://github.com/mtss-dev/MTSBlog/assets/91330677/2fca9d10-923b-42be-ae11-572373a9fb64" alt="eletronicos" width="650" />
+</p>
 
 ## Estrutura do Projeto
 
