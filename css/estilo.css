@@ -1,0 +1,158 @@
+/*Limpar formatações padrão*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background: #e6e6e6;
+}
+
+/*
+*** Classes e IDs ***
+*/
+
+#cabecalho{
+    padding: 15px;
+    text-align: center;
+    background: #f7b600;
+}
+
+#logo{
+    padding: 10px;
+}
+
+#menu{
+    padding: 10px;
+    font-size: 1.3em;
+}
+
+#main{
+    width: 1200px;
+    margin: 0 auto; /*Centralizar*/
+    padding: 15px;
+}
+
+#area-postagens{
+    width: 750px;
+    float: left;
+}
+
+#area-lateral{
+    width: 350px;
+    float: right;
+}
+
+#rodape{
+    clear: both; /*Limpar flutuação*/
+    text-align: center;
+    background: #CCC;
+    padding: 15px;
+}
+
+#categorias{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#top-jogos, #top-celulares{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.data-postagem{
+    font-size: 0.8em;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+.postagem-lateral{
+    font-size: 0.8em;
+    padding: 8px;
+    border-bottom: 1px dotted #CCC;
+}
+
+.conteudo-lateral{
+    background: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.branco{
+    color: #fff;
+}
+
+/*
+*** Formatação do menu/links ***
+*/
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited{
+    color: #f7b600;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#cabecalho a:link,#cabecalho a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+
+#cabecalho a:hover{
+    color: #f7b600;
+    background: #fff;
+    text-decoration: none;
+}
+
+/*Formatações em geral*/
+
+h1{
+    color: #4e4e4e;
+    font-size: 2.5em;
+}
+
+h2{
+    color: #f7b600;
+}
+
+h3{
+    color: white;
+    background:  #f7b600;
+    padding: 5px;
+    text-align: center;}
+
+h4{
+    color:rgb(8, 0, 255);
+    padding-bottom: 5px;
+}
+
+p{
+    text-align: justify;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+li{
+    margin-bottom: 2px;
+}
